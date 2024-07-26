@@ -8,7 +8,7 @@ const Pool = require("pg").Pool;
 // }).Pool;
 
 const pool = new Pool({
-  user: "blueratdota", // pc to pc basis
+  user: "john", // pc to pc basis
   password: "123456", // @home 123456 pud ang pass
   host: "localhost",
   port: 5432,
